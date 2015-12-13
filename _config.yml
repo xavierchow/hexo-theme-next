@@ -16,8 +16,7 @@ rss:
 # Specify the date when the site was setup
 #since: 2015
 
-
-
+disqus_shortname: xavierblog
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -57,7 +56,7 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 
@@ -78,8 +77,8 @@ sidebar: post
 
 
 # Social links
-# social:
-  #GitHub:
+social:
+  GitHub: http://github.com/xavierchow
   #Others:
 
 # Social Icons
@@ -92,7 +91,7 @@ social_icons:
 
 
 # Sidebar Avatar
-#avatar:
+avatar: /images/default_avatar.png
 
 
 # Social links
